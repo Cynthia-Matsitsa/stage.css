@@ -1,0 +1,18 @@
+/* #cynthia{
+    padding: 20px;
+    margin: 5%;
+    border-style:dotted ;
+    border-color: brown;
+}
+#container{
+    border: solid 1px;
+    padding: 20px;
+    margin: 5%;
+    border-color: blue;
+} */
+#image{
+   border: 1px solid; 
+   border-radius: 70px 50px 70px 50px;
+   padding: 20px;
+}
+
